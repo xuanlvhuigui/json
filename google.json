@@ -1,0 +1,47 @@
+"data"{
+  "project_info": {
+    "project_number": "473085640010",
+    "project_id": "fgame-2c040",
+    "storage_bucket": "fgame-2c040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473085640010:android:4d9e1312702be2fa3455b3",
+        "android_client_info": {
+          "package_name": "com.djieks.nienf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473085640010-1og6ie3bhmvog7u9e450o45sfmn6e5eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.djieks.nienf",
+            "certificate_hash": "f38566794b8a554cb3afc711059b400bffbb8122"
+          }
+        },
+        {
+          "client_id": "473085640010-vfnju4nci4eaa4msuic02vva3qenb48o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWQ1iltofmn_YO3NnQ-lA123bCHvAGpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473085640010-4r8cpkg85li6ascohpmv2j0cd8vehuo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
